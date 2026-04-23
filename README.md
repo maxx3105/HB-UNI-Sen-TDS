@@ -72,13 +72,9 @@ Bei Fehler (kein Signal oder kValue außerhalb 0,25–4,0) erscheint eine Fehler
 
 ---
 
-## CCU XML
+## openCCU ##
 
-Die Datei `hb-uni-sen-tds.xml` in das AddOn-Verzeichnis des JP-HB-Devices-Addon kopieren:
-
-```
-/firmware/rftypes/hb-uni-sen-tds.xml
-```
+Das HB-AddOn wird benötigt.
 
 ### Datenpunkte (Kanal 1)
 
