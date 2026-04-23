@@ -2,7 +2,7 @@
 
 HomeMatic / AskSin++ kompatibler TDS-Sensor auf Basis des **DFRobot Gravity: Analog TDS Sensor / Meter (SEN0244)**.
 
-Basiert auf [HB-UNI-Sen-EC](https://github.com/jp112sdl) von jp112sdl.
+Basiert auf [HB-UNI-Sen-PH](https://github.com/jp112sdl) von jp112sdl.
 
 ---
 
@@ -15,7 +15,7 @@ Basiert auf [HB-UNI-Sen-EC](https://github.com/jp112sdl) von jp112sdl.
 - LCD-Anzeige (I²C, 16×2) mit aktuellem TDS-Wert, Temperatur und kValue
 - Sendeintervall und Messintervall über CCU WebUI konfigurierbar
 - Device Model: **0xFC30**
-- Benötigt: [JP-HB-Devices-addon](https://github.com/jp112sdl/JP-HB-Devices-addon)
+- Benötigt: [HB-AddOn](https://github.com/maxx3105/HB-AddOn)
 
 ---
 
